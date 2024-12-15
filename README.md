@@ -2,11 +2,9 @@
 
 The primary goal of this work is to build up a Model of Skin Cancer Detection System utilizing Machine Learning Algorithms. After experimenting with many different architectures for the CNN model It is found that adding the BatchNormalization layer after each Dense, and MaxPooling2D layer can help increase the validation accuracy. In future, a mobile application can be made.
 
-Play with Skin Cancer Images here: (https://skin-cancer-detection-cnn.herokuapp.com/)
 
 ## Model Architecture:
 
-![alt_text](https://github.com/charanhu/Skin-Cancer-Detection-MNIST/blob/main/model_architecture.png)
 
 ## Data
 
